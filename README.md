@@ -1,2 +1,2 @@
-test-realmio
+test-realm
 ============
